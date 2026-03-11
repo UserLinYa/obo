@@ -833,9 +833,12 @@ def process_write_content(
         update_title = t("content.update_time") if is_last else t("content.update_running")
         if open_url_info and update_time_item["extra_info"]:
             update_time_item_url = add_url_info(update_time_item_url, update_time_item["extra_info"])
-        value = f"{hls_url}/{update_time_item["id"]}.m3u8" if hls_url else update_time_item_url
+        #value = f"{hls_url}/{update_time_item["id"]}.m3u8" if hls_url else update_time_item_url
+        value = "https:/123.mp4"#==================================================================================================随便一个网址
         if config.update_time_position == "top":
-            content = f"{update_title},#genre#\n{now},{value}\n\n{content}"
+            content = f"🕘️更新时间,{now}\n\n{content}"#====================只显示打印时间
+            content += f"\n\n🕘️更新时间,#genre#\n{now},{value}"#===========文件结尾打印时间链接
+            #content = f"{update_title},#genre#\n{now},{value}\n\n{content}"
         else:
             content += f"\n\n{update_title},#genre#\n{now},{value}"
     if hls_url:
