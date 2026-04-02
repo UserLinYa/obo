@@ -1,4 +1,4 @@
-🕘️更新时间,26/04/01-18:57:11
+🕘️更新时间,26/04/02-08:04:42
 
 📺央视频道,#genre#
 CCTV-1,https://hls-gateway.vpstv.net/streams/476879.m3u8
@@ -248,4 +248,4 @@ CCTV-17,https://t.freetv.fun/live/cctv17-3.m3u8
 黑龙江卫视,https://t.freetv.fun/live/hei-long-jiang-wei-shi-6.m3u8
 
 🕘️更新时间,#genre#
-26/04/01-18:57:11,https:/123.mp4
+26/04/02-08:04:42,https:/123.mp4
