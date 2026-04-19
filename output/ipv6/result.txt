@@ -1,4 +1,4 @@
-🕘️更新时间,26/04/19-07:54:40
+🕘️更新时间,26/04/19-15:18:24
 
 📺央视频道,#genre#
 CCTV-1,https://cdn13.178.indevs.in/163189/bea1d91d91364062
@@ -231,4 +231,4 @@ CCTV-17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 黑龙江卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 
 🕘️更新时间,#genre#
-26/04/19-07:54:40,https:/123.mp4
+26/04/19-15:18:24,https:/123.mp4
